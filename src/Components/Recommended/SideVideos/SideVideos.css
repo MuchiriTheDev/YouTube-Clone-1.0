@@ -1,0 +1,23 @@
+.side-videos{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    overflow-y: scroll;
+}
+.side-videos img{
+    flex-basis: 49%;
+    width: 50%;
+    border-radius: 2px;
+}
+.vid-info{
+    flex-basis: 49%;
+    margin-top: 20px;
+}
+.vid-info h4{
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+.vid-info p{
+    font-size: 13px;
+}

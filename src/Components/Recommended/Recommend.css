@@ -1,0 +1,13 @@
+.recommend{
+    flex-basis: 30%;
+}
+.recommend h4{
+    font-weight: 700;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+@media (max-width: 900px) {
+    .recommend{
+        flex-basis: 100%;
+    }
+}

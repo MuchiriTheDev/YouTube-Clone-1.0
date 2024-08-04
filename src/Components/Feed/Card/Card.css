@@ -1,0 +1,19 @@
+.card-img{
+    width: 100%;
+    border-radius: 5px;
+}
+.card-title{
+    font-size: 16px;
+    font-weight: 700;
+    color: #000;
+    margin: 5px 0;
+}
+.card-name{
+    font-size: 14px;
+    font-weight: 600;
+    color: #555;
+    margin: 6px 0;
+}
+.p-tag{
+    font-size: 14px;
+}
